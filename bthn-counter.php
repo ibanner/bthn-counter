@@ -1,6 +1,6 @@
 <?php
 /**
- * @package bthn_counter
+ * @package bthn-counter
  * @version 1.0
  */
 
