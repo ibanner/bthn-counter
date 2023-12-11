@@ -5,10 +5,10 @@
  */
 
 /**
- * Plugin Name:     Bring Them Home Now
+ * Plugin Name:     BTHN Counter - Bring Them Home Now
  * Plugin URI:      https://effective-web.co.il/bthn/
- * Description:     This simple plugin will display the "Bring Them Home Now" counter over your site. I did not create the counter. I just wrapped it indise a WordPress plugin.
- * Author:          Itay Banner
+ * Description:     This simple plugin will display the BTHN counter over your site. The counter was built by the The Hostages and Missing Families Forum. We just wrapped it indise a WordPress plugin.
+ * Author:          Effective Web
  * Author URI:      https://effective-web.co.il
  * Version:         1.0
  */
