@@ -22,7 +22,7 @@ The counter will appear on every page. Users can click the `X` button to hide it
 Please consider [donating](https://stories.bringthemhomenow.net/donate) to the BTHN awareness campaign.
 
 ## Disclaimer
-Im not affiliated with the The Hostages and Missing Families Forum, nor am I responsible for creating 
+I'm not affiliated with the The Hostages and Missing Families Forum, nor am I responsible for creating 
 the *days counter* itself. I only wrapped it inside a simple WordPress plugin.
 
 * License: GPLv2 or later
