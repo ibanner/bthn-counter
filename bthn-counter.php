@@ -6,7 +6,7 @@
 
 /**
  * Plugin Name:     Bring Them Home Now
- * Plugin URI:      https://effective-web.co.il
+ * Plugin URI:      https://effective-web.co.il/bthn/
  * Description:     This simple plugin will display the "Bring Them Home Now" counter over your site. I did not create the counter. I just wrapped it indise a WordPress plugin.
  * Author:          Itay Banner
  * Author URI:      https://effective-web.co.il
