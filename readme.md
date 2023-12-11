@@ -1,5 +1,5 @@
 # Bring Them Home Now
-**The Hostages and Missing Families Forum** created the day counter, to enable website owners
+**The Hostages and Missing Families Forum** created the [**days counter**](https://stories.bringthemhomenow.net/counter), to enable website owners
 to display itas a reminder of the time that passed since October 7th, and for how long we 
 are waiting for our loved ones to return.
 
@@ -23,7 +23,7 @@ Please consider [donating](https://stories.bringthemhomenow.net/donate) to the B
 
 ## Disclaimer
 Im not affiliated with the The Hostages and Missing Families Forum, nor am I responsible for creating 
-the [**days counter**](https://stories.bringthemhomenow.net/counter) itself. I only wrapped it inside a simple WordPress plugin.
+the *days counter* itself. I only wrapped it inside a simple WordPress plugin.
 
 * License: GPLv2 or later
 * License URI: https://www.gnu.org/licenses/gpl-2.0.html
